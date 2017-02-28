@@ -1,0 +1,18 @@
+html,body{
+	margin: 0 auto;
+	padding: 0;
+	width: 962px;
+	border:1px solid gray;
+}
+.black{
+	width: 120px;
+	height: 120px;
+	background: black;
+	float: left;
+}
+.white{
+	width: 120px;
+	height: 120px;
+	background: white;
+	float: left;
+}
